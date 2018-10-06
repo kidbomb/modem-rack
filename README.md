@@ -10,4 +10,12 @@ So I went ahead and created my own.
 I bought the following rack from mpja.com
  - BLACK 19" RACK MOUNT CABINET
 
-I then created a 3d model to serve as a standoff between the rack mount and a disassembled Surfboard SB6141 modem
+![Rack](https://github.com/kidbomb/modem-rack/raw/master/img/20181005_173521.jpg)
+
+I then created a 3d model using Tinkercad to serve as a standoff between the rack mount and a disassembled Surfboard SB6141 modem
+
+![3d prototype](https://github.com/kidbomb/modem-rack/raw/master/img/rack-standoff.png)
+ 
+This was the result after printed
+ 
+![3d prototype printed](https://github.com/kidbomb/modem-rack/raw/master/img/20181005_173703.jpg)
