@@ -19,3 +19,9 @@ I then created a 3d model using Tinkercad to serve as a standoff between the rac
 This was the result after printed
  
 ![3d prototype printed](https://github.com/kidbomb/modem-rack/raw/master/img/20181005_173703.jpg)
+
+There are some issues there need to be corrected in the next prototype:
+
+- Correct screws hole in the left size
+- Add space for screw head
+- Riser bars should be 1~2 mm smaller each side
